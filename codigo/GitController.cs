@@ -4,7 +4,8 @@ namespace mynamespace
 {
     class MyClass
     {
-        public String Name {get;set;};
+        public String Name {get;set;}
+        public String Age {get;set;}
     }
 }
 
